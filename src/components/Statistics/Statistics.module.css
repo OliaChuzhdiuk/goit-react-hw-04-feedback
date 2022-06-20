@@ -1,0 +1,10 @@
+.list {
+    color: #bf46d7;
+    display: flex;
+    width: 200px;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    list-style: none;
+    font-size: 24px;
+}
